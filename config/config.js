@@ -1,5 +1,5 @@
-const Config = {
+const Conf = {
     secret: "secret"
 }
 
-export default Config
+export default Conf
